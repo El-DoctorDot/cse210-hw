@@ -1,4 +1,4 @@
-// Purpose: This file contains the main program that runs the Journal application. 
+// Purpose: This file contains the main program that runs the Journal application. And I added the option to write the user's emotion and the weather, this information is found in the journal entry.
 // It allows the user to write, display, save, and load entries.
 using System;
 using System.Formats.Asn1;
