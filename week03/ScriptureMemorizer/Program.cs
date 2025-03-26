@@ -1,5 +1,5 @@
 // Purpose: Main program for the Scripture Memorizer program.
-// The program displays a random scripture and hides a random number of words until the user types 'quit'. And the program also works with a library of scriptures instead of a single one. It randomly chooses scriptures to present to the user.
+// The program displays a random scripture and hides a random number of words until the user types 'quit'. And I added a library of scriptures to the program instead of a single one. It randomly chooses scriptures to present to the user.
 using System;
 
 class Program
