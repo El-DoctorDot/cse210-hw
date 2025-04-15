@@ -24,6 +24,6 @@ public abstract class Activity
 
     public string GetSummary()
     {
-        return $"{_date: dd-MM-yyyy} {GetType().Name} ({_time} min): Distance {GetDistance()} km, Speed: {GetSpeed():F2} kph, Pace: {GetPace():F2} min per km";
+        return $"{_date: dd MMM yyyy} {GetType().Name} ({_time} min): Distance {GetDistance()} km, Speed: {GetSpeed():F2} kph, Pace: {GetPace():F2} min per km";
     }
 }
